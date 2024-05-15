@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asusz\\OneDrive\\Desktop\\semester4\\COMP212-Programming 3\\assignments\\lab5\\Question3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE749EEB-1055-4945-B64F-A94A3138132B}|Question3\\Question3.csproj|c:\\users\\asusz\\onedrive\\desktop\\semester4\\comp212-programming 3\\assignments\\lab5\\question3\\question3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE749EEB-1055-4945-B64F-A94A3138132B}|Question3\\Question3.csproj|solutionrelative:question3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE749EEB-1055-4945-B64F-A94A3138132B}|Question3\\Question3.csproj|c:\\users\\asusz\\onedrive\\desktop\\semester4\\comp212-programming 3\\assignments\\lab5\\question3\\question3\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE749EEB-1055-4945-B64F-A94A3138132B}|Question3\\Question3.csproj|solutionrelative:question3\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Desktop\\semester4\\COMP212-Programming 3\\assignments\\lab5\\Question3\\Question3\\Data.cs",
+              "RelativeDocumentMoniker": "Question3\\Data.cs",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Desktop\\semester4\\COMP212-Programming 3\\assignments\\lab5\\Question3\\Question3\\Data.cs",
+              "RelativeToolTip": "Question3\\Data.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwB4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:18:39.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asusz\\OneDrive\\Desktop\\semester4\\COMP212-Programming 3\\assignments\\lab5\\Question3\\Question3\\Program.cs",
+              "RelativeDocumentMoniker": "Question3\\Program.cs",
+              "ToolTip": "C:\\Users\\asusz\\OneDrive\\Desktop\\semester4\\COMP212-Programming 3\\assignments\\lab5\\Question3\\Question3\\Program.cs",
+              "RelativeToolTip": "Question3\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAA/wBsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:56:45.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

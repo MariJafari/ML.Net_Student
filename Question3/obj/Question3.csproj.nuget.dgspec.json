@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\asusz\\OneDrive\\Desktop\\semester4\\COMP212-Programming 3\\other\\assignments\\lab5\\lab5_MarjanJafari(301321020)\\Question3\\Question3\\Question3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\asusz\\OneDrive\\Desktop\\semester4\\COMP212-Programming 3\\other\\assignments\\lab5\\lab5_MarjanJafari(301321020)\\Question3\\Question3\\Question3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\asusz\\OneDrive\\Desktop\\semester4\\COMP212-Programming 3\\other\\assignments\\lab5\\lab5_MarjanJafari(301321020)\\Question3\\Question3\\Question3.csproj",
+        "projectName": "Question3",
+        "projectPath": "C:\\Users\\asusz\\OneDrive\\Desktop\\semester4\\COMP212-Programming 3\\other\\assignments\\lab5\\lab5_MarjanJafari(301321020)\\Question3\\Question3\\Question3.csproj",
+        "packagesPath": "C:\\Users\\asusz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asusz\\OneDrive\\Desktop\\semester4\\COMP212-Programming 3\\other\\assignments\\lab5\\lab5_MarjanJafari(301321020)\\Question3\\Question3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\asusz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
